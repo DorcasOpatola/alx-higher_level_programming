@@ -39,8 +39,7 @@ class Rectangle:
     @property
     def height(self):
         """
-        Property retriever, to retreive the 
-        height of the rectangle.
+        Property retriever, to retreive the height of the rectangle.
         """
         return self.__height
 
